@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/html5-qrcode-react/static/css/main.550ff9d0.chunk.css",
+    "main.js": "/html5-qrcode-react/static/js/main.d407066b.chunk.js",
+    "main.js.map": "/html5-qrcode-react/static/js/main.d407066b.chunk.js.map",
+    "runtime-main.js": "/html5-qrcode-react/static/js/runtime-main.2e6ba0fb.js",
+    "runtime-main.js.map": "/html5-qrcode-react/static/js/runtime-main.2e6ba0fb.js.map",
+    "static/js/2.e5416fea.chunk.js": "/html5-qrcode-react/static/js/2.e5416fea.chunk.js",
+    "static/js/2.e5416fea.chunk.js.map": "/html5-qrcode-react/static/js/2.e5416fea.chunk.js.map",
+    "static/js/3.c8bacada.chunk.js": "/html5-qrcode-react/static/js/3.c8bacada.chunk.js",
+    "static/js/3.c8bacada.chunk.js.map": "/html5-qrcode-react/static/js/3.c8bacada.chunk.js.map",
+    "index.html": "/html5-qrcode-react/index.html",
+    "static/css/main.550ff9d0.chunk.css.map": "/html5-qrcode-react/static/css/main.550ff9d0.chunk.css.map",
+    "static/js/2.e5416fea.chunk.js.LICENSE.txt": "/html5-qrcode-react/static/js/2.e5416fea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6ba0fb.js",
+    "static/js/2.e5416fea.chunk.js",
+    "static/css/main.550ff9d0.chunk.css",
+    "static/js/main.d407066b.chunk.js"
+  ]
+}
